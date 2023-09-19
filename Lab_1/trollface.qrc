@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/trollface">
+        <file>trollface.png</file>
+    </qresource>
+</RCC>
