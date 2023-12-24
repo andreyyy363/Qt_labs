@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon.png</file>
+        <file>open.png</file>
+        <file>save.png</file>
+        <file>exit.png</file>
+        <file>invert.png</file>
+        <file>sepia.png</file>
+        <file>gray-scale.png</file>
+        <file>apply.png</file>
+        <file>twist.png</file>
+        <file>pixelize.png</file>
+        <file>brightness.png</file>
+        <file>monochrome.png</file>
+        <file>logarithm.png</file>
+        <file>discard.png</file>
+        <file>binarization.png</file>
+    </qresource>
+</RCC>
