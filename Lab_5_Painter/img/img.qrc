@@ -1,0 +1,14 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>circle.png</file>
+        <file>curve.png</file>
+        <file>exit.png</file>
+        <file>img.qrc</file>
+        <file>open.png</file>
+        <file>polygon.png</file>
+        <file>save.png</file>
+        <file>icon.png</file>
+        <file>airbrush.png</file>
+        <file>contourSmile.png</file>
+    </qresource>
+</RCC>
